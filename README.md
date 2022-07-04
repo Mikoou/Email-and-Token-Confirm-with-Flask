@@ -1,2 +1,2 @@
-# Email-and-Token-Confirm-with-Flask
+# EmailConfirmFlask
 Email and Token Confirm with Flask
